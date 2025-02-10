@@ -35,6 +35,10 @@ a {
   text-decoration: none;
 }
 
+.craftContainer {
+  border: 1px solid black;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

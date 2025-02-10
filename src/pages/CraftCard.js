@@ -1,5 +1,4 @@
 import { useState } from "react"
-import "../Styles/CraftCard.module.css"
 
 function CraftCard({ item, player })
 {
